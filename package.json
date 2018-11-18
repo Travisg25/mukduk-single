@@ -1,0 +1,24 @@
+{
+  "name": "mukduk",
+  "version": "1.0.0",
+  "description": "A single page for a cloud hosting service called \"MukDuk\".",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Travisg25/mukduk-single.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Travisg25/mukduk-single/issues"
+  },
+  "homepage": "https://github.com/Travisg25/mukduk-single#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
